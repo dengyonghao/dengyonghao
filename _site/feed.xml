@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Deng,yonghao</title>
+		<description>iOS</description>
+		<link>http://dengyonghao.github.io/dengyonghao</link>
+		<atom:link href="http://dengyonghao.github.io/dengyonghao/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
